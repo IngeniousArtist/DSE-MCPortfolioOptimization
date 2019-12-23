@@ -1,0 +1,367 @@
+TICKERS,INDUSTRY
+ABBANK,Bank
+ALARABANK,Bank
+BANKASIA,Bank
+BRACBANK,Bank
+CITYBANK,Bank
+DHAKABANK,Bank
+DUTCHBANGL,Bank
+EBL,Bank
+EXIMBANK,Bank
+FIRSTSBANK,Bank
+ICBIBANK,Bank
+IFIC,Bank
+ISLAMIBANK,Bank
+JAMUNABANK,Bank
+MERCANBANK,Bank
+MTB,Bank
+NBL,Bank
+NCCBANK,Bank
+ONEBANKLTD,Bank
+PREMIERBAN,Bank
+PRIMEBANK,Bank
+PUBALIBANK,Bank
+RUPALIBANK,Bank
+SHAHJABANK,Bank
+SIBL,Bank
+SOUTHEASTB,Bank
+STANDBANKL,Bank
+TRUSTBANK,Bank
+UCB,Bank
+UTTARABANK,Bank
+ARAMITCEM,Cement
+CONFIDCEM,Cement
+HEIDELBCEM,Cement
+LHBL,Cement
+MEGHNACEM,Cement
+MICEMENT,Cement
+PREMIERCEM,Cement
+FUWANGCER,Ceramics Sector
+MONNOCERA,Ceramics Sector
+RAKCERAMIC,Ceramics Sector
+SPCERAMICS,Ceramics Sector
+STANCERAM,Ceramics Sector
+IBBLPBOND,Corporate Bond
+DEBARACEM,Debenture
+DEBBDLUGG,Debenture
+DEBBDWELD,Debenture
+DEBBDZIPP,Debenture
+DEBBXDENIM,Debenture
+DEBBXFISH,Debenture
+DEBBXKNI,Debenture
+DEBBXTEX,Debenture
+AFTABAUTO,Engineering
+ANWARGALV,Engineering
+APOLOISPAT,Engineering
+ATLASBANG,Engineering
+AZIZPIPES,Engineering
+BBS,Engineering
+BBSCABLES,Engineering
+BDAUTOCA,Engineering
+BDLAMPS,Engineering
+BDTHAI,Engineering
+BENGALWTL,Engineering
+BSRMLTD,Engineering
+BSRMSTEEL,Engineering
+COPPERTECH,Engineering
+DESHBANDHU,Engineering
+ECABLES,Engineering
+GOLDENSON,Engineering
+GPHISPAT,Engineering
+IFADAUTOS,Engineering
+KAY&QUE,Engineering
+KDSALTD,Engineering
+MONNOSTAF,Engineering
+NAHEEACP,Engineering
+NAVANACNG,Engineering
+NPOLYMAR,Engineering
+NTLTUBES,Engineering
+OAL,Engineering
+OIMEX,Engineering
+QUASEMIND,Engineering
+RANFOUNDRY,Engineering
+RENWICKJA,Engineering
+RSRMSTEEL,Engineering
+RUNNERAUTO,Engineering
+SALAMCRST,Engineering
+SHURWID,Engineering
+SINGERBD,Engineering
+SSSTEEL,Engineering
+WMSHIPYARD,Engineering
+YPL,Engineering
+BAYLEASING,Financial Institutions
+BDFINANCE,Financial Institutions
+BIFC,Financial Institutions
+DBH,Financial Institutions
+FAREASTFIN,Financial Institutions
+FASFIN,Financial Institutions
+FIRSTFIN,Financial Institutions
+GSPFINANCE,Financial Institutions
+ICB,Financial Institutions
+IDLC,Financial Institutions
+ILFSL,Financial Institutions
+IPDC,Financial Institutions
+ISLAMICFIN,Financial Institutions
+LANKABAFIN,Financial Institutions
+MIDASFIN,Financial Institutions
+NHFIL,Financial Institutions
+PHOENIXFIN,Financial Institutions
+PLFSL,Financial Institutions
+PREMIERLEA,Financial Institutions
+PRIMEFIN,Financial Institutions
+UNIONCAP,Financial Institutions
+UNITEDFIN,Financial Institutions
+UTTARAFIN,Financial Institutions
+AMCL(PRAN),Food & Allied
+APEXFOODS,Food & Allied
+BANGAS,Food & Allied
+BATBC,Food & Allied
+BEACHHATCH,Food & Allied
+EMERALDOIL,Food & Allied
+FINEFOODS,Food & Allied
+FUWANGFOOD,Food & Allied
+GEMINISEA,Food & Allied
+GHAIL,Food & Allied
+MEGCONMILK,Food & Allied
+MEGHNAPET,Food & Allied
+NTC,Food & Allied
+OLYMPIC,Food & Allied
+RDFOOD,Food & Allied
+SHYAMPSUG,Food & Allied
+ZEALBANGLA,Food & Allied
+BARKAPOWER,Fuel & Power
+BDWELDING,Fuel & Power
+CVOPRL,Fuel & Power
+DESCO,Fuel & Power
+DOREENPWR,Fuel & Power
+EASTRNLUB,Fuel & Power
+GBBPOWER,Fuel & Power
+INTRACO,Fuel & Power
+JAMUNAOIL,Fuel & Power
+KPCL,Fuel & Power
+LINDEBD,Fuel & Power
+MJLBD,Fuel & Power
+MPETROLEUM,Fuel & Power
+PADMAOIL,Fuel & Power
+POWERGRID,Fuel & Power
+SPCL,Fuel & Power
+SUMITPOWER,Fuel & Power
+TITASGAS,Fuel & Power
+UPGDCL,Fuel & Power
+AGRANINS,Insurance
+ASIAINS,Insurance
+ASIAPACINS,Insurance
+BGIC,Insurance
+BNICL,Insurance
+CENTRALINS,Insurance
+CITYGENINS,Insurance
+CONTININS,Insurance
+DELTALIFE,Insurance
+DHAKAINS,Insurance
+EASTERNINS,Insurance
+EASTLAND,Insurance
+FAREASTLIF,Insurance
+FEDERALINS,Insurance
+GLOBALINS,Insurance
+GREENDELT,Insurance
+ISLAMIINS,Insurance
+JANATAINS,Insurance
+KARNAPHULI,Insurance
+MEGHNALIFE,Insurance
+MERCINS,Insurance
+NATLIFEINS,Insurance
+NITOLINS,Insurance
+NORTHRNINS,Insurance
+PADMALIFE,Insurance
+PARAMOUNT,Insurance
+PEOPLESINS,Insurance
+PHENIXINS,Insurance
+PIONEERINS,Insurance
+POPULARLIF,Insurance
+PRAGATIINS,Insurance
+PRAGATILIF,Insurance
+PRIMEINSUR,Insurance
+PRIMELIFE,Insurance
+PROGRESLIF,Insurance
+PROVATIINS,Insurance
+PURABIGEN,Insurance
+RELIANCINS,Insurance
+REPUBLIC,Insurance
+RUPALIINS,Insurance
+RUPALILIFE,Insurance
+SANDHANINS,Insurance
+SONARBAINS,Insurance
+STANDARINS,Insurance
+SUNLIFEINS,Insurance
+TAKAFULINS,Insurance
+UNITEDINS,Insurance
+AAMRANET,IT Sector
+AAMRATECH,IT Sector
+AGNISYSL,IT Sector
+BDCOM,IT Sector
+DAFODILCOM,IT Sector
+GENEXIL,IT Sector
+INTECH,IT Sector
+ISNLTD,IT Sector
+ITC,IT Sector
+JUTESPINN,Jute
+NORTHERN,Jute
+SONALIANSH,Jute
+AMANFEED,Miscellaneous
+ARAMIT,Miscellaneous
+BERGERPBL,Miscellaneous
+BEXIMCO,Miscellaneous
+BSC,Miscellaneous
+GQBALLPEN,Miscellaneous
+KBPPWBIL,Miscellaneous
+MIRACLEIND,Miscellaneous
+NFML,Miscellaneous
+SAVAREFR,Miscellaneous
+SINOBANGLA,Miscellaneous
+SKTRIMS,Miscellaneous
+USMANIAGL,Miscellaneous
+1JANATAMF,Mutual Funds
+1STPRIMFMF,Mutual Funds
+ABB1STMF,Mutual Funds
+AIBL1STIMF,Mutual Funds
+ATCSLGF,Mutual Funds
+CAPMBDBLMF,Mutual Funds
+CAPMIBBLMF,Mutual Funds
+DBH1STMF,Mutual Funds
+EBL1STMF,Mutual Funds
+EBLNRBMF,Mutual Funds
+EXIM1STMF,Mutual Funds
+FBFIF,Mutual Funds
+GRAMEENS2,Mutual Funds
+GREENDELMF,Mutual Funds
+ICB3RDNRB,Mutual Funds
+ICBAGRANI1,Mutual Funds
+ICBAMCL2ND,Mutual Funds
+ICBEPMF1S1,Mutual Funds
+ICBSONALI1,Mutual Funds
+IFIC1STMF,Mutual Funds
+IFILISLMF1,Mutual Funds
+LRGLOBMF1,Mutual Funds
+MBL1STMF,Mutual Funds
+NCCBLMF1,Mutual Funds
+NLI1STMF,Mutual Funds
+PF1STMF,Mutual Funds
+PHPMF1,Mutual Funds
+POPULAR1MF,Mutual Funds
+PRIME1ICBA,Mutual Funds
+RELIANCE1,Mutual Funds
+SEBL1STMF,Mutual Funds
+SEMLFBSLGF,Mutual Funds
+SEMLIBBLSF,Mutual Funds
+SEMLLECMF,Mutual Funds
+TRUSTB1MF,Mutual Funds
+VAMLBDMF1,Mutual Funds
+VAMLRBBF,Mutual Funds
+BPML,Paper & Printing
+HAKKANIPUL,Paper & Printing
+KPPL,Paper & Printing
+ACI,Pharmaceuticals & Chemicals
+ACIFORMULA,Pharmaceuticals & Chemicals
+ACMELAB,Pharmaceuticals & Chemicals
+ACTIVEFINE,Pharmaceuticals & Chemicals
+ADVENT,Pharmaceuticals & Chemicals
+AFCAGRO,Pharmaceuticals & Chemicals
+AMBEEPHA,Pharmaceuticals & Chemicals
+BEACONPHAR,Pharmaceuticals & Chemicals
+BXPHARMA,Pharmaceuticals & Chemicals
+BXSYNTH,Pharmaceuticals & Chemicals
+CENTRALPHL,Pharmaceuticals & Chemicals
+FARCHEM,Pharmaceuticals & Chemicals
+GHCL,Pharmaceuticals & Chemicals
+GLAXOSMITH,Pharmaceuticals & Chemicals
+IBNSINA,Pharmaceuticals & Chemicals
+IBP,Pharmaceuticals & Chemicals
+IMAMBUTTON,Pharmaceuticals & Chemicals
+JMISMDL,Pharmaceuticals & Chemicals
+KEYACOSMET,Pharmaceuticals & Chemicals
+KOHINOOR,Pharmaceuticals & Chemicals
+LIBRAINFU,Pharmaceuticals & Chemicals
+MARICO,Pharmaceuticals & Chemicals
+ORIONINFU,Pharmaceuticals & Chemicals
+ORIONPHARM,Pharmaceuticals & Chemicals
+PHARMAID,Pharmaceuticals & Chemicals
+RECKITTBEN,Pharmaceuticals & Chemicals
+RENATA,Pharmaceuticals & Chemicals
+SALVOCHEM,Pharmaceuticals & Chemicals
+SILCOPHL,Pharmaceuticals & Chemicals
+SILVAPHL,Pharmaceuticals & Chemicals
+SQURPHARMA,Pharmaceuticals & Chemicals
+WATACHEM,Pharmaceuticals & Chemicals
+EHL,Services & Real Estate
+SAIFPOWER,Services & Real Estate
+SAMORITA,Services & Real Estate
+SAPORTL,Services & Real Estate
+APEXFOOT,Tannery Industries
+APEXTANRY,Tannery Industries
+BATASHOE,Tannery Industries
+FORTUNE,Tannery Industries
+LEGACYFOOT,Tannery Industries
+SAMATALETH,Tannery Industries
+BSCCL,Telecommunication
+GP,Telecommunication
+ACFL,Textile
+AIL,Textile
+AL-HAJTEX,Textile
+ALIF,Textile
+ALLTEX,Textile
+ANLIMAYARN,Textile
+APEXSPINN,Textile
+ARGONDENIM,Textile
+CNATEX,Textile
+DACCADYE,Textile
+DELTASPINN,Textile
+DSHGARME,Textile
+DSSL,Textile
+DULAMIACOT,Textile
+ENVOYTEX,Textile
+ESQUIRENIT,Textile
+ETL,Textile
+FAMILYTEX,Textile
+FEKDIL,Textile
+GENNEXT,Textile
+HFL,Textile
+HRTEX,Textile
+HWAWELLTEX,Textile
+KTL,Textile
+MAKSONSPIN,Textile
+MALEKSPIN,Textile
+MATINSPINN,Textile
+METROSPIN,Textile
+MHSML,Textile
+MITHUNKNIT,Textile
+MLDYEING,Textile
+NEWLINE,Textile
+NURANI,Textile
+PDL,Textile
+PRIMETEX,Textile
+PTL,Textile
+QUEENSOUTH,Textile
+RAHIMTEXT,Textile
+REGENTTEX,Textile
+RINGSHINE,Textile
+RNSPIN,Textile
+SAFKOSPINN,Textile
+SAIHAMCOT,Textile
+SAIHAMTEX,Textile
+SHASHADNIM,Textile
+SHEPHERD,Textile
+SIMTEX,Textile
+SONARGAON,Textile
+SQUARETEXT,Textile
+STYLECRAFT,Textile
+TALLUSPIN,Textile
+TOSRIFA,Textile
+TUNGHAI,Textile
+VFSTDL,Textile
+ZAHEENSPIN,Textile
+ZAHINTEX,Textile
+BDSERVICE,Travel & Leisure
+PENINSULA,Travel & Leisure
+SEAPEARL,Travel & Leisure
+UNIQUEHRL,Travel & Leisure
+UNITEDAIR,Travel & Leisure
